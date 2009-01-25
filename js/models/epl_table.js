@@ -81,8 +81,9 @@ EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
 
 EPL.Table.prototype.write_team_standings_to_iphone_view = function(team, rank) {
   $('#epl_iphone_table').append(
+    "<a class=\"fixtures\" id=\"" + team.id + "\" href=\"/teams/fixtures/" + team.id + "\">" +
     "<li class=\"arrow\"><p class=\"standing\"><span class=\"rank\">" + rank + "</span><span class=\"name\">" + 
-    "<a class=\"fixtures\" id=\"" + team.id + "\" href=\"/teams/fixtures/" + team.id + "\">" + team.name + "</a></span><span class=\"played\">" + team.total_played + "</span><span class=\"gd\">" + team.goal_difference + "</span><span class=\"pts\">" + team.points + "</span></p></li>"
+    team.name + "</span><span class=\"played\">" + team.total_played + "</span><span class=\"gd\">" + team.goal_difference + "</span><span class=\"pts\">" + team.points + "</span></p></a></li>"
   );
 };
 
