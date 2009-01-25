@@ -5,10 +5,24 @@
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
   <title>EPL's GitHub</title>
   <script src="/js/jquery-1.3.1.min.js" type="text/javascript"></script>
+  <script src="/js/models/epl_table.js" type="text/javascript"></script>
+  <script src="/js/models/epl_team.js" type="text/javascript"></script>
 </head>
 
 <body>
+  <h3>English Premier League</h3>
+  <div id="long_form_div">
+    <table id="epl_long_form_table">
+    </table>
+  </div>
   
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+  jQuery(function($) {
+    TABLE = new EPL.Table();
+    TABLE.initialize_teams();
+  });
+</script>
 </body>
 
 </html>
