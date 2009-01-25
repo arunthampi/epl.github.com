@@ -1,0 +1,28 @@
+span.rank {
+  float: left;
+  width: 8%;
+}
+
+span.name {
+  float: left;
+  width: 50%;
+}
+
+span.played {
+  float: left;
+  width: 12%;
+}
+
+span.gd {
+  float: left;
+  width: 12%;
+}
+
+span.pts {
+  float: left;
+  width: 12%;
+}
+
+p.standing { 
+  height: 7px;
+}

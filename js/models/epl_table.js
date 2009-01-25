@@ -1,7 +1,8 @@
 EPL = typeof EPL == 'undefined' || !EPL ? {} : EPL;
 
-EPL.Table = function() {
+EPL.Table = function(is_iphone) {
   this.table = [];
+  this.is_iphone = is_iphone;
 };
 
 
@@ -11,7 +12,11 @@ EPL.Table.prototype.initialize_teams = function() {
     function(data) {
       for(var i = 0; i < data.length; i++) {
         self.table.push(data[i]);
-        self.write_team_standings_to_view(data[i], i + 1);
+        if(self.is_iphone) {
+          self.write_team_standings_to_iphone_view(data[i], i + 1);
+        } else {
+          self.write_team_standings_to_normal_view(data[i], i + 1);  
+        }
       }
       self.initialize_fixtures_bindings();
     });
@@ -29,23 +34,29 @@ EPL.Table.prototype.initialize_fixtures_bindings = function() {
 
 EPL.Table.prototype.show_fixtures_view = function(id) {
   var self = this;
-  var html = "<div id=\"fixtures_" + id + "\">";
+  var html = "<span id=\"fixtures_" + id + "\">";
   
   $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
     function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
-        html += "<div id=\"fixtures_" + id + "_" + (i + 1) + "\">";
-        html += "<p><b>" + fixtures[i].competition + "</b></p>";
-        html += "<p><i>" + fixtures[i].details + "</i></p>";
-        html += "<p><b>" + fixtures[i].date + ", " + fixtures[i].gmt_time + " GMT</b></p>";
-        html += "</div><hr />";
+        html += "<span id=\"fixtures_" + id + "_" + (i + 1) + "\">";
+        html += "<span><b>" + fixtures[i].competition + "</b></span>";
+        html += "<span><i>" + fixtures[i].details + "</i></span>";
+        html += "<span><b>" + fixtures[i].date + ", " + fixtures[i].gmt_time + " GMT</b></span>";
+        html += "</span><hr />";
       }
-      html += "</div>";
-      $('div#long_form_div').replaceWith(html);
+      html += "</span>";
+      $('p#long_form_p').replaceWith(html);
     });
 };
 
-EPL.Table.prototype.write_team_standings_to_view = function(team, rank) {
+EPL.Table.prototype.write_team_standings_to_iphone_view = function(team, rank) {
+  $('#epl_iphone_table').append(
+    "<li class=\"arrow\"><p class=\"standing\"><span class=\"rank\">" + rank + "</span><span class=\"name\">" + team.name + "</span><span class=\"played\">" + team.total_played + "</span><span class=\"gd\">" + team.goal_difference + "</span><span class=\"pts\">" + team.points + "</span></p></li>"
+  );
+};
+
+EPL.Table.prototype.write_team_standings_to_normal_view = function(team, rank) {
   $('#epl_long_form_table').append(
     "<tr>" + 
     "<td>" + rank + "</td><td><a class=\"fixtures\" id=\"" + team.id + "\" href=\"/teams/fixtures/" + team.id + "\">" + team.name + "</a></td>" + 
