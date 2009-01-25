@@ -3,6 +3,9 @@ EPL = typeof EPL == 'undefined' || !EPL ? {} : EPL;
 EPL.Table = function(is_iphone) {
   this.table = [];
   this.is_iphone = is_iphone;
+  if(this.is_iphone) {
+    $('a#backButton').hide();
+  }
 };
 
 
@@ -27,12 +30,16 @@ EPL.Table.prototype.initialize_fixtures_bindings = function() {
   
   $("a.fixtures").bind("click", function(e) {
     var id = e.currentTarget.id;
-    self.show_fixtures_view(id);
+    if(self.is_iphone) {
+      self.show_fixtures_iphone_view(id);
+    } else {
+      self.show_fixtures_normal_view(id);
+    }
     return false;
   });
 };
 
-EPL.Table.prototype.show_fixtures_view = function(id) {
+EPL.Table.prototype.show_fixtures_normal_view = function(id) {
   var self = this;
   var html = "<span id=\"fixtures_" + id + "\">";
   
@@ -50,9 +57,32 @@ EPL.Table.prototype.show_fixtures_view = function(id) {
     });
 };
 
+EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
+  var self = this;
+//  var html = "<li id=\"fixtures_" + id + "\">";
+  var html = "<ul id=\"epl_iphone_table\">";
+  
+  $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
+    function(fixtures) {
+      for(var i = 0; i < fixtures.length; i++) {
+        html += "<li id=\"fixtures_" + id + "_" + (i + 1) + "\">";
+        html += "<p><b>" + fixtures[i].competition + "</b></p>";
+        html += "<p><i>" + fixtures[i].details + "</i></p>";
+        html += "<p><b>" + fixtures[i].date + ", " + fixtures[i].gmt_time + " GMT</b></p>";
+        html += "</li>";
+      }
+      html += "</ul>";
+      
+      $('ul#epl_iphone_table').replaceWith(html);
+      $('a#backButton').show();
+    });
+};
+
+
 EPL.Table.prototype.write_team_standings_to_iphone_view = function(team, rank) {
   $('#epl_iphone_table').append(
-    "<li class=\"arrow\"><p class=\"standing\"><span class=\"rank\">" + rank + "</span><span class=\"name\">" + team.name + "</span><span class=\"played\">" + team.total_played + "</span><span class=\"gd\">" + team.goal_difference + "</span><span class=\"pts\">" + team.points + "</span></p></li>"
+    "<li class=\"arrow\"><p class=\"standing\"><span class=\"rank\">" + rank + "</span><span class=\"name\">" + 
+    "<a class=\"fixtures\" id=\"" + team.id + "\" href=\"/teams/fixtures/" + team.id + "\">" + team.name + "</a></span><span class=\"played\">" + team.total_played + "</span><span class=\"gd\">" + team.goal_difference + "</span><span class=\"pts\">" + team.points + "</span></p></li>"
   );
 };
 
