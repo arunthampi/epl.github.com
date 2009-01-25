@@ -30,12 +30,9 @@ EPL.Table.prototype.initialize_fixtures_bindings = function() {
 EPL.Table.prototype.show_fixtures_view = function(id) {
   var self = this;
   var html = "<div id=\"fixtures_" + id + "\">";
-  console.debug("Going to get JSON");
   
   $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
     function(fixtures) {
-      console.debug("Got Fixtures");
-      
       for(var i = 0; i < fixtures.length; i++) {
         html += "<div id=\"fixtures_" + id + "_" + (i + 1) + "\">";
         html += "<p><b>" + fixtures[i].competition + "</b></p>";
