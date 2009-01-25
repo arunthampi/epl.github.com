@@ -41,19 +41,19 @@ EPL.Table.prototype.initialize_fixtures_bindings = function() {
 
 EPL.Table.prototype.show_fixtures_normal_view = function(id) {
   var self = this;
-  var html = "<span id=\"fixtures_" + id + "\">";
+  var html = "<p id=\"fixtures_" + id + "\">";
   
   $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
     function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
-        html += "<span id=\"fixtures_" + id + "_" + (i + 1) + "\">";
-        html += "<span><b>" + fixtures[i].competition + "</b></span>";
-        html += "<span><i>" + fixtures[i].details + "</i></span>";
-        html += "<span><b>" + fixtures[i].date + ", " + fixtures[i].gmt_time + " GMT</b></span>";
-        html += "</span><hr />";
+        html += "<p id=\"fixtures_" + id + "_" + (i + 1) + "\">";
+        html += "<p><b>" + fixtures[i].competition + "</b></p>";
+        html += "<p><i>" + fixtures[i].details + "</i></p>";
+        html += "<p><b>" + fixtures[i].date + ", " + fixtures[i].gmt_time + " GMT</b></p>";
+        html += "</p><hr />";
       }
-      html += "</span>";
-      $('p#long_form_p').replaceWith(html);
+      html += "</p>";
+      $('div#long_form_div').replaceWith(html);
     });
 };
 
