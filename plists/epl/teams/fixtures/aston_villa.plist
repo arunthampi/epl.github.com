@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>31 January 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Wigan</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1233385200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>The FA Cup sponsored by E.ON</string>
+		<key>date</key>
+		<string>04 February 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Doncaster</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1233747900</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>07 February 2009</string>
+		<key>details</key>
+		<string>Blackburn v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1233990000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>18 February 2009</string>
+		<key>details</key>
+		<string>Aston Villa v CSKA Moscow</string>
+		<key>gmt_time</key>
+		<string>19:00</string>
+		<key>unix_time</key>
+		<integer>1234954800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>21 February 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Chelsea</string>
+		<key>gmt_time</key>
+		<string>12:45</string>
+		<key>unix_time</key>
+		<integer>1235191500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>26 February 2009</string>
+		<key>details</key>
+		<string>CSKA Moscow v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>17:00</string>
+		<key>unix_time</key>
+		<integer>1235638800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>01 March 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Stoke</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1235890800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>04 March 2009</string>
+		<key>details</key>
+		<string>Man City v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1236167100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>15 March 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Tottenham</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1237104000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>22 March 2009</string>
+		<key>details</key>
+		<string>Liverpool v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1237708800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>04 April 2009</string>
+		<key>details</key>
+		<string>Man Utd v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1238828400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>11 April 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Everton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1239433200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>18 April 2009</string>
+		<key>details</key>
+		<string>Aston Villa v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1240038000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>25 April 2009</string>
+		<key>details</key>
+		<string>Bolton v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1240642800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>02 May 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Hull</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1241247600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>09 May 2009</string>
+		<key>details</key>
+		<string>Fulham v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1241852400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>16 May 2009</string>
+		<key>details</key>
+		<string>Middlesbrough v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1242457200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>24 May 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Newcastle</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1243152000</integer>
+	</dict>
+</array>
+</plist>

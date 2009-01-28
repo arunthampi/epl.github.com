@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>28 January 2009</string>
+		<key>details</key>
+		<string>Man City v Newcastle</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1233143100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>31 January 2009</string>
+		<key>details</key>
+		<string>Stoke v Man City</string>
+		<key>gmt_time</key>
+		<string>12:45</string>
+		<key>unix_time</key>
+		<integer>1233377100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>07 February 2009</string>
+		<key>details</key>
+		<string>Man City v Middlesbrough</string>
+		<key>gmt_time</key>
+		<string>12:45</string>
+		<key>unix_time</key>
+		<integer>1233981900</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>14 February 2009</string>
+		<key>details</key>
+		<string>Portsmouth v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1234594800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>19 February 2009</string>
+		<key>details</key>
+		<string>FC Copenhagen v Man City</string>
+		<key>gmt_time</key>
+		<string>19:05</string>
+		<key>unix_time</key>
+		<integer>1235041500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>22 February 2009</string>
+		<key>details</key>
+		<string>Liverpool v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1235286000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>26 February 2009</string>
+		<key>details</key>
+		<string>Man City v FC Copenhagen</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1235648700</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>01 March 2009</string>
+		<key>details</key>
+		<string>West Ham v Man City</string>
+		<key>gmt_time</key>
+		<string>12:30</string>
+		<key>unix_time</key>
+		<integer>1235881800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>04 March 2009</string>
+		<key>details</key>
+		<string>Man City v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1236167100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>15 March 2009</string>
+		<key>details</key>
+		<string>Chelsea v Man City</string>
+		<key>gmt_time</key>
+		<string>13:30</string>
+		<key>unix_time</key>
+		<integer>1237095000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>21 March 2009</string>
+		<key>details</key>
+		<string>Man City v Sunderland</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1237618800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>04 April 2009</string>
+		<key>details</key>
+		<string>Arsenal v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1238828400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>11 April 2009</string>
+		<key>details</key>
+		<string>Man City v Fulham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1239433200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>18 April 2009</string>
+		<key>details</key>
+		<string>Man City v West Brom</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1240038000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>25 April 2009</string>
+		<key>details</key>
+		<string>Everton v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1240642800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>02 May 2009</string>
+		<key>details</key>
+		<string>Man City v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1241247600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>09 May 2009</string>
+		<key>details</key>
+		<string>Man Utd v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1241852400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>16 May 2009</string>
+		<key>details</key>
+		<string>Tottenham v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1242457200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>24 May 2009</string>
+		<key>details</key>
+		<string>Man City v Bolton</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1243152000</integer>
+	</dict>
+</array>
+</plist>
