@@ -30,25 +30,25 @@
 		<key>competition</key>
 		<string>The FA Cup sponsored by E.ON</string>
 		<key>date</key>
-		<string>14 February 2009</string>
+		<string>15 February 2009</string>
 		<key>details</key>
 		<string>Derby/ Nottm Forest v Man Utd</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:30</string>
 		<key>unix_time</key>
-		<integer>1234594800</integer>
+		<integer>1234686600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>17 February 2009</string>
+		<string>18 February 2009</string>
 		<key>details</key>
 		<string>Man Utd v Fulham</string>
 		<key>gmt_time</key>
 		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1234872000</integer>
+		<integer>1234958400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

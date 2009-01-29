@@ -6,18 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>28 January 2009</string>
-		<key>details</key>
-		<string>Wigan v Liverpool</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1233143100</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>31 January 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Wigan</string>
