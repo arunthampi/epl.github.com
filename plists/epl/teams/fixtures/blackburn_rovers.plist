@@ -4,39 +4,15 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>31 January 2009</string>
-		<key>details</key>
-		<string>Middlesbrough v Blackburn</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1233385200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>The FA Cup sponsored by E.ON</string>
 		<key>date</key>
-		<string>04 February 2009</string>
+		<string>14 February 2009</string>
 		<key>details</key>
-		<string>Blackburn v Sunderland</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1233748800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>07 February 2009</string>
-		<key>details</key>
-		<string>Blackburn v Aston Villa</string>
+		<string>Blackburn v Coventry</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1233990000</integer>
+		<integer>1234594800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -54,13 +30,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>28 February 2009</string>
+		<string>01 March 2009</string>
 		<key>details</key>
 		<string>Hull v Blackburn</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>12:30</string>
 		<key>unix_time</key>
-		<integer>1235804400</integer>
+		<integer>1235881800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

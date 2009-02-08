@@ -4,39 +4,15 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>31 January 2009</string>
-		<key>details</key>
-		<string>Aston Villa v Wigan</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1233385200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>The FA Cup sponsored by E.ON</string>
 		<key>date</key>
-		<string>04 February 2009</string>
+		<string>15 February 2009</string>
 		<key>details</key>
-		<string>Aston Villa v Doncaster</string>
+		<string>Everton v Aston Villa</string>
 		<key>gmt_time</key>
-		<string>19:45</string>
+		<string>14:30</string>
 		<key>unix_time</key>
-		<integer>1233747900</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>07 February 2009</string>
-		<key>details</key>
-		<string>Blackburn v Aston Villa</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1233990000</integer>
+		<integer>1234679400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
