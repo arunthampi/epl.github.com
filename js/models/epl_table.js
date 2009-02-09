@@ -14,7 +14,7 @@ EPL.Table.prototype.initialize_teams = function() {
   $.ajax({
     url: '/js/epl/all_teams.js',
     dataType: 'json',
-    type: 'GET',
+    type: 'GET', cache: false,
     success: function(data) {
       for(var i = 0; i < data.length; i++) {
         self.table.push(data[i]);
@@ -50,7 +50,7 @@ EPL.Table.prototype.show_fixtures_normal_view = function(id) {
   $.ajax({
     url: "/js/epl/teams/fixtures/" + id + ".js",
     dataType: 'json',
-    type: 'GET',
+    type: 'GET', cache: false,
     success: function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
         html += "<p id=\"fixtures_" + id + "_" + (i + 1) + "\">";
@@ -73,7 +73,7 @@ EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
   $.ajax({
     url: "/js/epl/teams/fixtures/" + id + ".js",
     dataType: 'json',
-    type: 'GET',
+    type: 'GET', cache: false,
     success: function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
         html += "<li id=\"fixtures_" + id + "_" + (i + 1) + "\">";
