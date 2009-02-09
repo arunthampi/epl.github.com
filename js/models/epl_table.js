@@ -11,8 +11,11 @@ EPL.Table = function(is_iphone) {
 
 EPL.Table.prototype.initialize_teams = function() {
   var self = this;
-  $.getJSON("/js/epl/all_teams.js",
-    function(data) {
+  $.ajax({
+    url: '/js/epl/all_teams.js',
+    dataType: 'json',
+    type: 'GET',
+    success: function(data) {
       for(var i = 0; i < data.length; i++) {
         self.table.push(data[i]);
         if(self.is_iphone) {
@@ -22,7 +25,8 @@ EPL.Table.prototype.initialize_teams = function() {
         }
       }
       self.initialize_fixtures_bindings();
-    });
+    }
+  });
 };
 
 EPL.Table.prototype.initialize_fixtures_bindings = function() {
@@ -43,8 +47,11 @@ EPL.Table.prototype.show_fixtures_normal_view = function(id) {
   var self = this;
   var html = "<p id=\"fixtures_" + id + "\">";
   
-  $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
-    function(fixtures) {
+  $.ajax({
+    url: "/js/epl/teams/fixtures/" + id + ".js",
+    dataType: 'json',
+    type: 'GET',
+    success: function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
         html += "<p id=\"fixtures_" + id + "_" + (i + 1) + "\">";
         html += "<p><b>" + fixtures[i].competition + "</b></p>";
@@ -54,7 +61,8 @@ EPL.Table.prototype.show_fixtures_normal_view = function(id) {
       }
       html += "</p>";
       $('div#long_form_div').replaceWith(html);
-    });
+    }
+  });
 };
 
 EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
@@ -62,8 +70,11 @@ EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
 //  var html = "<li id=\"fixtures_" + id + "\">";
   var html = "<ul id=\"epl_iphone_table\">";
   
-  $.getJSON("/js/epl/teams/fixtures/" + id + ".js",
-    function(fixtures) {
+  $.ajax({
+    url: "/js/epl/teams/fixtures/" + id + ".js",
+    dataType: 'json',
+    type: 'GET',
+    success: function(fixtures) {
       for(var i = 0; i < fixtures.length; i++) {
         html += "<li id=\"fixtures_" + id + "_" + (i + 1) + "\">";
         html += "<p><b>" + fixtures[i].competition + "</b></p>";
@@ -75,7 +86,8 @@ EPL.Table.prototype.show_fixtures_iphone_view = function(id) {
       
       $('ul#epl_iphone_table').replaceWith(html);
       $('a#backButton').show();
-    });
+    }  
+  });
 };
 
 
