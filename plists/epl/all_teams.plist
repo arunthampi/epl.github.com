@@ -4,6 +4,38 @@
 <array>
 	<dict>
 		<key>away_against</key>
+		<integer>6</integer>
+		<key>away_drawn</key>
+		<integer>4</integer>
+		<key>away_for</key>
+		<integer>16</integer>
+		<key>away_lost</key>
+		<integer>2</integer>
+		<key>away_won</key>
+		<integer>7</integer>
+		<key>goal_difference</key>
+		<integer>31</integer>
+		<key>home_against</key>
+		<integer>4</integer>
+		<key>home_drawn</key>
+		<integer>1</integer>
+		<key>home_for</key>
+		<integer>25</integer>
+		<key>home_lost</key>
+		<integer>0</integer>
+		<key>home_won</key>
+		<integer>10</integer>
+		<key>id</key>
+		<string>man_utd</string>
+		<key>name</key>
+		<string>Man Utd</string>
+		<key>points</key>
+		<integer>56</integer>
+		<key>total_played</key>
+		<integer>24</integer>
+	</dict>
+	<dict>
+		<key>away_against</key>
 		<integer>10</integer>
 		<key>away_drawn</key>
 		<integer>4</integer>
@@ -33,38 +65,6 @@
 		<integer>54</integer>
 		<key>total_played</key>
 		<integer>25</integer>
-	</dict>
-	<dict>
-		<key>away_against</key>
-		<integer>6</integer>
-		<key>away_drawn</key>
-		<integer>4</integer>
-		<key>away_for</key>
-		<integer>15</integer>
-		<key>away_lost</key>
-		<integer>2</integer>
-		<key>away_won</key>
-		<integer>6</integer>
-		<key>goal_difference</key>
-		<integer>30</integer>
-		<key>home_against</key>
-		<integer>4</integer>
-		<key>home_drawn</key>
-		<integer>1</integer>
-		<key>home_for</key>
-		<integer>25</integer>
-		<key>home_lost</key>
-		<integer>0</integer>
-		<key>home_won</key>
-		<integer>10</integer>
-		<key>id</key>
-		<string>man_utd</string>
-		<key>name</key>
-		<string>Man Utd</string>
-		<key>points</key>
-		<integer>53</integer>
-		<key>total_played</key>
-		<integer>23</integer>
 	</dict>
 	<dict>
 		<key>away_against</key>
@@ -134,7 +134,7 @@
 		<key>away_against</key>
 		<integer>14</integer>
 		<key>away_drawn</key>
-		<integer>4</integer>
+		<integer>5</integer>
 		<key>away_for</key>
 		<integer>20</integer>
 		<key>away_lost</key>
@@ -158,9 +158,9 @@
 		<key>name</key>
 		<string>Arsenal</string>
 		<key>points</key>
-		<integer>43</integer>
+		<integer>44</integer>
 		<key>total_played</key>
-		<integer>24</integer>
+		<integer>25</integer>
 	</dict>
 	<dict>
 		<key>away_against</key>
@@ -238,15 +238,15 @@
 		<key>away_won</key>
 		<integer>3</integer>
 		<key>goal_difference</key>
-		<integer>0</integer>
+		<integer>-1</integer>
 		<key>home_against</key>
-		<integer>16</integer>
+		<integer>17</integer>
 		<key>home_drawn</key>
 		<integer>1</integer>
 		<key>home_for</key>
 		<integer>18</integer>
 		<key>home_lost</key>
-		<integer>5</integer>
+		<integer>6</integer>
 		<key>home_won</key>
 		<integer>6</integer>
 		<key>id</key>
@@ -256,7 +256,7 @@
 		<key>points</key>
 		<integer>33</integer>
 		<key>total_played</key>
-		<integer>24</integer>
+		<integer>25</integer>
 	</dict>
 	<dict>
 		<key>away_against</key>
@@ -466,7 +466,7 @@
 		<key>home_against</key>
 		<integer>9</integer>
 		<key>home_drawn</key>
-		<integer>4</integer>
+		<integer>5</integer>
 		<key>home_for</key>
 		<integer>11</integer>
 		<key>home_lost</key>
@@ -478,9 +478,9 @@
 		<key>name</key>
 		<string>Tottenham</string>
 		<key>points</key>
-		<integer>24</integer>
+		<integer>25</integer>
 		<key>total_played</key>
-		<integer>24</integer>
+		<integer>25</integer>
 	</dict>
 	<dict>
 		<key>away_against</key>

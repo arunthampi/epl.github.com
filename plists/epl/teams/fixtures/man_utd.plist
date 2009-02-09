@@ -4,18 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>08 February 2009</string>
-		<key>details</key>
-		<string>West Ham v Man Utd</string>
-		<key>gmt_time</key>
-		<string>16:00</string>
-		<key>unix_time</key>
-		<integer>1234080000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>The FA Cup sponsored by E.ON</string>
 		<key>date</key>
 		<string>15 February 2009</string>
