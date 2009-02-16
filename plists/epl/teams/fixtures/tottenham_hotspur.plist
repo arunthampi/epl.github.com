@@ -40,18 +40,6 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>28 February 2009</string>
-		<key>details</key>
-		<string>Sunderland OFF Tottenham</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235804400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Carling Cup</string>
 		<key>date</key>
 		<string>01 March 2009</string>
@@ -73,6 +61,18 @@
 		<string>20:00</string>
 		<key>unix_time</key>
 		<integer>1236168000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>07 March 2009</string>
+		<key>details</key>
+		<string>Sunderland v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1236409200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

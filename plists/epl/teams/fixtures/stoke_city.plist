@@ -42,13 +42,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>14 March 2009</string>
+		<string>15 March 2009</string>
 		<key>details</key>
 		<string>Everton v Stoke</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1237014000</integer>
+		<integer>1237100400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
