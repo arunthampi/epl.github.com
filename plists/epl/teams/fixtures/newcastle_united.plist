@@ -6,18 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>22 February 2009</string>
-		<key>details</key>
-		<string>Newcastle v Everton</string>
-		<key>gmt_time</key>
-		<string>16:00</string>
-		<key>unix_time</key>
-		<integer>1235289600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>01 March 2009</string>
 		<key>details</key>
 		<string>Bolton v Newcastle</string>
@@ -82,9 +70,9 @@
 		<key>details</key>
 		<string>Stoke v Newcastle</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>17:30</string>
 		<key>unix_time</key>
-		<integer>1239433200</integer>
+		<integer>1239442200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -102,13 +90,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>25 April 2009</string>
+		<string>27 April 2009</string>
 		<key>details</key>
 		<string>Newcastle v Portsmouth</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240833600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

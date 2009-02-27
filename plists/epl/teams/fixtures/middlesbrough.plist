@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>21 February 2009</string>
-		<key>details</key>
-		<string>Middlesbrough v Wigan</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235199600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>date</key>
-		<string>24 February 2009</string>
-		<key>details</key>
-		<string>Middlesbrough v West Ham</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1235476800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>28 February 2009</string>
 		<key>details</key>
 		<string>Middlesbrough v Liverpool</string>
@@ -49,6 +25,18 @@
 		<string>20:00</string>
 		<key>unix_time</key>
 		<integer>1236168000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>The FA Cup sponsored by E.ON</string>
+		<key>date</key>
+		<string>08 March 2009</string>
+		<key>details</key>
+		<string>Everton v Middlesbrough</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1236499200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -114,13 +102,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>25 April 2009</string>
+		<string>26 April 2009</string>
 		<key>details</key>
 		<string>Arsenal v Middlesbrough</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240723800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

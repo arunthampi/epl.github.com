@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>21 February 2009</string>
-		<key>details</key>
-		<string>Stoke v Portsmouth</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235199600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>28 February 2009</string>
-		<key>details</key>
-		<string>Man Utd OFF Portsmouth</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235804400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>03 March 2009</string>
 		<key>details</key>
 		<string>Portsmouth v Chelsea</string>
@@ -102,13 +78,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>25 April 2009</string>
+		<string>22 April 2009</string>
+		<key>details</key>
+		<string>Man Utd v Portsmouth</string>
+		<key>gmt_time</key>
+		<string>20:00</string>
+		<key>unix_time</key>
+		<integer>1240401600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>27 April 2009</string>
 		<key>details</key>
 		<string>Newcastle v Portsmouth</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240833600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

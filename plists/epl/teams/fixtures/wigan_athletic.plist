@@ -6,18 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>21 February 2009</string>
-		<key>details</key>
-		<string>Middlesbrough v Wigan</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235199600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>28 February 2009</string>
 		<key>details</key>
 		<string>Chelsea v Wigan</string>
@@ -90,25 +78,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>18 April 2009</string>
+		<string>19 April 2009</string>
 		<key>details</key>
 		<string>Wigan v Man Utd</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1240038000</integer>
+		<integer>1240119000</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>25 April 2009</string>
+		<string>26 April 2009</string>
 		<key>details</key>
 		<string>Blackburn v Wigan</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240732800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

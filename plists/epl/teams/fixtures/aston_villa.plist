@@ -4,42 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>18 February 2009</string>
-		<key>details</key>
-		<string>Aston Villa v CSKA Moscow</string>
-		<key>gmt_time</key>
-		<string>19:00</string>
-		<key>unix_time</key>
-		<integer>1234954800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 February 2009</string>
-		<key>details</key>
-		<string>Aston Villa v Chelsea</string>
-		<key>gmt_time</key>
-		<string>12:45</string>
-		<key>unix_time</key>
-		<integer>1235191500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>26 February 2009</string>
-		<key>details</key>
-		<string>CSKA Moscow v Aston Villa</string>
-		<key>gmt_time</key>
-		<string>17:00</string>
-		<key>unix_time</key>
-		<integer>1235638800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>01 March 2009</string>
@@ -90,25 +54,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>04 April 2009</string>
+		<string>05 April 2009</string>
 		<key>details</key>
 		<string>Man Utd v Aston Villa</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1238828400</integer>
+		<integer>1238918400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>11 April 2009</string>
+		<string>12 April 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Everton</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1239433200</integer>
+		<integer>1239514200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

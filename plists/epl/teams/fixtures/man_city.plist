@@ -4,42 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>19 February 2009</string>
-		<key>details</key>
-		<string>FC Copenhagen v Man City</string>
-		<key>gmt_time</key>
-		<string>19:05</string>
-		<key>unix_time</key>
-		<integer>1235041500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>22 February 2009</string>
-		<key>details</key>
-		<string>Liverpool v Man City</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235286000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>26 February 2009</string>
-		<key>details</key>
-		<string>Man City v FC Copenhagen</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1235648700</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>01 March 2009</string>
@@ -64,6 +28,21 @@
 	</dict>
 	<dict>
 		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>12 March 2009</string>
+		<key>details</key>
+		<string>Man City v AaB Aalborg</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1236830400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>15 March 2009</string>
@@ -73,6 +52,21 @@
 		<string>13:30</string>
 		<key>unix_time</key>
 		<integer>1237095000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Cup</string>
+		<key>date</key>
+		<string>18 March 2009</string>
+		<key>details</key>
+		<string>AaB Aalborg v Man City</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1237348800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -102,13 +96,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>11 April 2009</string>
+		<string>12 April 2009</string>
 		<key>details</key>
 		<string>Man City v Fulham</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1239433200</integer>
+		<integer>1239523200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

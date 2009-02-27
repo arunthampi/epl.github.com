@@ -4,54 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>18 February 2009</string>
-		<key>details</key>
-		<string>Man Utd v Fulham</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1234958400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 February 2009</string>
-		<key>details</key>
-		<string>Man Utd v Blackburn</string>
-		<key>gmt_time</key>
-		<string>17:30</string>
-		<key>unix_time</key>
-		<integer>1235208600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>24 February 2009</string>
-		<key>details</key>
-		<string>Inter Milan v Man Utd</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1235475900</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>28 February 2009</string>
-		<key>details</key>
-		<string>Man Utd OFF Portsmouth</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1235804400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Carling Cup</string>
 		<key>date</key>
 		<string>01 March 2009</string>
@@ -80,11 +32,11 @@
 		<key>date</key>
 		<string>07 March 2009</string>
 		<key>details</key>
-		<string>Swansea/ Fulham v Man Utd</string>
+		<string>Fulham v Man Utd</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>17:15</string>
 		<key>unix_time</key>
-		<integer>1236409200</integer>
+		<integer>1236417300</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -126,13 +78,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>04 April 2009</string>
+		<string>05 April 2009</string>
 		<key>details</key>
 		<string>Man Utd v Aston Villa</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1238828400</integer>
+		<integer>1238918400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -150,13 +102,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>18 April 2009</string>
+		<string>19 April 2009</string>
 		<key>details</key>
 		<string>Wigan v Man Utd</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1240038000</integer>
+		<integer>1240119000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>22 April 2009</string>
+		<key>details</key>
+		<string>Man Utd v Portsmouth</string>
+		<key>gmt_time</key>
+		<string>20:00</string>
+		<key>unix_time</key>
+		<integer>1240401600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -166,9 +130,9 @@
 		<key>details</key>
 		<string>Man Utd v Tottenham</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>17:30</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240651800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

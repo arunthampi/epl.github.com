@@ -6,42 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>18 February 2009</string>
-		<key>details</key>
-		<string>Man Utd v Fulham</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1234958400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>22 February 2009</string>
-		<key>details</key>
-		<string>Fulham v West Brom</string>
-		<key>gmt_time</key>
-		<string>13:30</string>
-		<key>unix_time</key>
-		<integer>1235280600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>date</key>
-		<string>24 February 2009</string>
-		<key>details</key>
-		<string>Fulham v Swansea</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1235476800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>28 February 2009</string>
 		<key>details</key>
 		<string>Arsenal v Fulham</string>
@@ -61,6 +25,18 @@
 		<string>20:00</string>
 		<key>unix_time</key>
 		<integer>1236168000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>The FA Cup sponsored by E.ON</string>
+		<key>date</key>
+		<string>07 March 2009</string>
+		<key>details</key>
+		<string>Fulham v Man Utd</string>
+		<key>gmt_time</key>
+		<string>17:15</string>
+		<key>unix_time</key>
+		<integer>1236417300</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -102,25 +78,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>04 April 2009</string>
+		<string>06 April 2009</string>
 		<key>details</key>
 		<string>Fulham v Liverpool</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1238828400</integer>
+		<integer>1239019200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>11 April 2009</string>
+		<string>12 April 2009</string>
 		<key>details</key>
 		<string>Man City v Fulham</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1239433200</integer>
+		<integer>1239523200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
