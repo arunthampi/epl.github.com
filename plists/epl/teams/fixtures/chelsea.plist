@@ -4,30 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>03 March 2009</string>
-		<key>details</key>
-		<string>Portsmouth v Chelsea</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1236080700</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>date</key>
-		<string>07 March 2009</string>
-		<key>details</key>
-		<string>Coventry v Chelsea</string>
-		<key>gmt_time</key>
-		<string>12:30</string>
-		<key>unix_time</key>
-		<integer>1236400200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>UEFA Champions League</string>
 		<key>date</key>
 		<string>10 March 2009</string>
@@ -100,63 +76,108 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>Arsenal/Hull v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
+						
+						
+						
+		        SF,
+						
+						15:00</string>
 		<key>date</key>
-		<string>25 April 2009</string>
+		<string>The FA Cup sponsored by E.ON</string>
 		<key>details</key>
-		<string>West Ham v Chelsea</string>
+		<string>&lt;b&gt;Saturday</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>0</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/default.stm&quot; class=&quot;stats&quot;&gt;West Ham&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
+						
+						
+						
+		        
+						
+						15:00</string>
 		<key>date</key>
-		<string>02 May 2009</string>
+		<string>Barclays Premier League</string>
 		<key>details</key>
-		<string>Chelsea v Fulham</string>
+		<string>&lt;b&gt;Saturday</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
 		<key>unix_time</key>
-		<integer>1241247600</integer>
+		<integer>0</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/f/fulham/default.stm&quot; class=&quot;stats&quot;&gt;Fulham&lt;/a&gt;,
+						
+						
+						
+		        
+						
+						15:00</string>
 		<key>date</key>
-		<string>09 May 2009</string>
+		<string>Barclays Premier League</string>
 		<key>details</key>
-		<string>Arsenal v Chelsea</string>
+		<string>&lt;b&gt;Saturday</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
 		<key>unix_time</key>
-		<integer>1241852400</integer>
+		<integer>0</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/default.stm&quot; class=&quot;stats&quot;&gt;Arsenal&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
+						
+						
+						
+		        
+						
+						15:00</string>
 		<key>date</key>
-		<string>16 May 2009</string>
+		<string>Barclays Premier League</string>
 		<key>details</key>
-		<string>Chelsea v Blackburn</string>
+		<string>&lt;b&gt;Saturday</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
 		<key>unix_time</key>
-		<integer>1242457200</integer>
+		<integer>0</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/b/blackburn_rovers/default.stm&quot; class=&quot;stats&quot;&gt;Blackburn&lt;/a&gt;,
+						
+						
+						
+		        
+						
+						15:00</string>
 		<key>date</key>
-		<string>24 May 2009</string>
+		<string>Barclays Premier League</string>
 		<key>details</key>
-		<string>Sunderland v Chelsea</string>
+		<string>&lt;b&gt;Sunday</string>
 		<key>gmt_time</key>
-		<string>16:00</string>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
 		<key>unix_time</key>
-		<integer>1243152000</integer>
+		<integer>0</integer>
 	</dict>
 </array>
 </plist>

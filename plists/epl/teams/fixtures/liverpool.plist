@@ -4,18 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>03 March 2009</string>
-		<key>details</key>
-		<string>Liverpool v Sunderland</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1236081600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>UEFA Champions League</string>
 		<key>date</key>
 		<string>10 March 2009</string>
