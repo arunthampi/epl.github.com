@@ -4,51 +4,27 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>10 March 2009</string>
-		<key>details</key>
-		<string>Liverpool v Real Madrid</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1236685500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>14 March 2009</string>
-		<key>details</key>
-		<string>Man Utd v Liverpool</string>
-		<key>gmt_time</key>
-		<string>12:45</string>
-		<key>unix_time</key>
-		<integer>1237005900</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>22 March 2009</string>
-		<key>details</key>
-		<string>Liverpool v Aston Villa</string>
-		<key>gmt_time</key>
-		<string>16:00</string>
-		<key>unix_time</key>
-		<integer>1237708800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>06 April 2009</string>
+		<string>04 April 2009</string>
 		<key>details</key>
 		<string>Fulham v Liverpool</string>
 		<key>gmt_time</key>
-		<string>20:00</string>
+		<string>17:30</string>
 		<key>unix_time</key>
-		<integer>1239019200</integer>
+		<integer>1238837400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>08 April 2009</string>
+		<key>details</key>
+		<string>Liverpool v Chelsea</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1239191100</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -58,21 +34,33 @@
 		<key>details</key>
 		<string>Liverpool v Blackburn</string>
 		<key>gmt_time</key>
-		<string>12:45</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1239425100</integer>
+		<integer>1239433200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>14 April 2009</string>
+		<key>details</key>
+		<string>Chelsea v Liverpool</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1239709500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>19 April 2009</string>
+		<string>21 April 2009</string>
 		<key>details</key>
 		<string>Liverpool v Arsenal</string>
 		<key>gmt_time</key>
-		<string>16:00</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1240128000</integer>
+		<integer>1240315200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

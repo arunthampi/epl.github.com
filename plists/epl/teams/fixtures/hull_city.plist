@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>14 March 2009</string>
-		<key>details</key>
-		<string>Hull v Newcastle</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237014000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>22 March 2009</string>
-		<key>details</key>
-		<string>Wigan v Hull</string>
-		<key>gmt_time</key>
-		<string>13:30</string>
-		<key>unix_time</key>
-		<integer>1237699800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>04 April 2009</string>
 		<key>details</key>
 		<string>Hull v Portsmouth</string>

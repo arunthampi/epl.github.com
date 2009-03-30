@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>16 March 2009</string>
-		<key>details</key>
-		<string>West Ham v West Brom</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1237204800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 March 2009</string>
-		<key>details</key>
-		<string>West Brom v Bolton</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237618800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>04 April 2009</string>
 		<key>details</key>
 		<string>West Brom v Stoke</string>
@@ -54,13 +30,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>18 April 2009</string>
+		<string>19 April 2009</string>
 		<key>details</key>
 		<string>Man City v West Brom</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1240038000</integer>
+		<integer>1240124400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

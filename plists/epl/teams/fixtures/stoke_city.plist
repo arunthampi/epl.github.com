@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>14 March 2009</string>
-		<key>details</key>
-		<string>Everton v Stoke</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237014000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 March 2009</string>
-		<key>details</key>
-		<string>Stoke v Middlesbrough</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237618800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>04 April 2009</string>
 		<key>details</key>
 		<string>West Brom v Stoke</string>
@@ -46,9 +22,9 @@
 		<key>details</key>
 		<string>Stoke v Newcastle</string>
 		<key>gmt_time</key>
-		<string>17:30</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1239442200</integer>
+		<integer>1239433200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

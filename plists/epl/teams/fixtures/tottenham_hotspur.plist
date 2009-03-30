@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>15 March 2009</string>
-		<key>details</key>
-		<string>Aston Villa v Tottenham</string>
-		<key>gmt_time</key>
-		<string>16:00</string>
-		<key>unix_time</key>
-		<integer>1237104000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 March 2009</string>
-		<key>details</key>
-		<string>Tottenham v Chelsea</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237618800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>04 April 2009</string>
 		<key>details</key>
 		<string>Blackburn v Tottenham</string>
@@ -54,13 +30,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>18 April 2009</string>
+		<string>19 April 2009</string>
 		<key>details</key>
 		<string>Tottenham v Newcastle</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1240038000</integer>
+		<integer>1240119000</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -70,9 +46,9 @@
 		<key>details</key>
 		<string>Man Utd v Tottenham</string>
 		<key>gmt_time</key>
-		<string>17:30</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1240651800</integer>
+		<integer>1240642800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

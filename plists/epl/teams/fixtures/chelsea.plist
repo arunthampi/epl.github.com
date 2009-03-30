@@ -4,42 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>10 March 2009</string>
-		<key>details</key>
-		<string>Juventus v Chelsea</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1236685500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>15 March 2009</string>
-		<key>details</key>
-		<string>Chelsea v Man City</string>
-		<key>gmt_time</key>
-		<string>13:30</string>
-		<key>unix_time</key>
-		<integer>1237095000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>21 March 2009</string>
-		<key>details</key>
-		<string>Tottenham v Chelsea</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1237618800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>04 April 2009</string>
@@ -49,6 +13,18 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1238828400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>08 April 2009</string>
+		<key>details</key>
+		<string>Liverpool v Chelsea</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1239191100</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -64,120 +40,99 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>14 April 2009</string>
+		<key>details</key>
+		<string>Chelsea v Liverpool</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1239709500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>The FA Cup sponsored by E.ON</string>
 		<key>date</key>
 		<string>18 April 2009</string>
 		<key>details</key>
+		<string>Arsenal v Chelsea</string>
+		<key>gmt_time</key>
+		<string>17:15</string>
+		<key>unix_time</key>
+		<integer>1240046100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>22 April 2009</string>
+		<key>details</key>
 		<string>Chelsea v Everton</string>
 		<key>gmt_time</key>
-		<string>12:45</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1240029900</integer>
+		<integer>1240401600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Arsenal/Hull v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
-						
-						
-						
-		        SF,
-						
-						15:00</string>
-		<key>date</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>details</key>
-		<string>&lt;b&gt;Saturday</string>
-		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
-		<key>unix_time</key>
-		<integer>0</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/default.stm&quot; class=&quot;stats&quot;&gt;West Ham&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
-						
-						
-						
-		        
-						
-						15:00</string>
-		<key>date</key>
 		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>25 April 2009</string>
 		<key>details</key>
-		<string>&lt;b&gt;Saturday</string>
+		<string>West Ham v Chelsea</string>
 		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>0</integer>
+		<integer>1240642800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/f/fulham/default.stm&quot; class=&quot;stats&quot;&gt;Fulham&lt;/a&gt;,
-						
-						
-						
-		        
-						
-						15:00</string>
-		<key>date</key>
 		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>02 May 2009</string>
 		<key>details</key>
-		<string>&lt;b&gt;Saturday</string>
+		<string>Chelsea v Fulham</string>
 		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>0</integer>
+		<integer>1241247600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/a/arsenal/default.stm&quot; class=&quot;stats&quot;&gt;Arsenal&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt;,
-						
-						
-						
-		        
-						
-						15:00</string>
-		<key>date</key>
 		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>09 May 2009</string>
 		<key>details</key>
-		<string>&lt;b&gt;Saturday</string>
+		<string>Arsenal v Chelsea</string>
 		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>0</integer>
+		<integer>1241852400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>&lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/default.stm&quot; class=&quot;stats&quot;&gt;Chelsea&lt;/a&gt; v &lt;a href=&quot;http://news.bbc.co.uk/sport1/hi/football/teams/b/blackburn_rovers/default.stm&quot; class=&quot;stats&quot;&gt;Blackburn&lt;/a&gt;,
-						
-						
-						
-		        
-						
-						15:00</string>
-		<key>date</key>
 		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>16 May 2009</string>
 		<key>details</key>
-		<string>&lt;b&gt;Sunday</string>
+		<string>Chelsea v Blackburn</string>
 		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>0</integer>
+		<integer>1242457200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>24 May 2009</string>
+		<key>details</key>
+		<string>Sunderland v Chelsea</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1243152000</integer>
 	</dict>
 </array>
 </plist>
