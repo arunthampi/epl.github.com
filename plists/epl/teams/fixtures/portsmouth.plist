@@ -6,18 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>04 April 2009</string>
-		<key>details</key>
-		<string>Hull v Portsmouth</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1238828400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>11 April 2009</string>
 		<key>details</key>
 		<string>Portsmouth v West Brom</string>

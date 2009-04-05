@@ -22,9 +22,9 @@
 		<key>details</key>
 		<string>Aston Villa v Everton</string>
 		<key>gmt_time</key>
-		<string>13:30</string>
+		<string>14:00</string>
 		<key>unix_time</key>
-		<integer>1239514200</integer>
+		<integer>1239516000</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
