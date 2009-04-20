@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>11 April 2009</string>
-		<key>details</key>
-		<string>Chelsea v Bolton</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1239433200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>18 April 2009</string>
-		<key>details</key>
-		<string>Portsmouth v Bolton</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240038000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>25 April 2009</string>
 		<key>details</key>
 		<string>Bolton v Aston Villa</string>

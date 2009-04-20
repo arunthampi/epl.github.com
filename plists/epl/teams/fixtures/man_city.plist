@@ -4,54 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>09 April 2009</string>
-		<key>details</key>
-		<string>Hamburg v Man City</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239277500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>12 April 2009</string>
-		<key>details</key>
-		<string>Man City v Fulham</string>
-		<key>gmt_time</key>
-		<string>16:10</string>
-		<key>unix_time</key>
-		<integer>1239523800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Cup</string>
-		<key>date</key>
-		<string>16 April 2009</string>
-		<key>details</key>
-		<string>Man City v Hamburg</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239882300</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>19 April 2009</string>
-		<key>details</key>
-		<string>Man City v West Brom</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240124400</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>25 April 2009</string>
@@ -78,13 +30,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2009</string>
+		<string>10 May 2009</string>
 		<key>details</key>
 		<string>Man Utd v Man City</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1241852400</integer>
+		<integer>1241933400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

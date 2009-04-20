@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>12 April 2009</string>
-		<key>details</key>
-		<string>Man City v Fulham</string>
-		<key>gmt_time</key>
-		<string>16:10</string>
-		<key>unix_time</key>
-		<integer>1239523800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>18 April 2009</string>
-		<key>details</key>
-		<string>Middlesbrough v Fulham</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240038000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>25 April 2009</string>
 		<key>details</key>
 		<string>Fulham v Stoke</string>

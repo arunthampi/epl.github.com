@@ -4,42 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>08 April 2009</string>
-		<key>details</key>
-		<string>Liverpool v Chelsea</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239191100</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>11 April 2009</string>
-		<key>details</key>
-		<string>Liverpool v Blackburn</string>
-		<key>gmt_time</key>
-		<string>12:45</string>
-		<key>unix_time</key>
-		<integer>1239425100</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>14 April 2009</string>
-		<key>details</key>
-		<string>Chelsea v Liverpool</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239709500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>21 April 2009</string>
@@ -66,13 +30,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>02 May 2009</string>
+		<string>03 May 2009</string>
 		<key>details</key>
 		<string>Liverpool v Newcastle</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1241247600</integer>
+		<integer>1241328600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -82,21 +46,21 @@
 		<key>details</key>
 		<string>West Ham v Liverpool</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>17:30</string>
 		<key>unix_time</key>
-		<integer>1241852400</integer>
+		<integer>1241861400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>16 May 2009</string>
+		<string>17 May 2009</string>
 		<key>details</key>
 		<string>West Brom v Liverpool</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1242457200</integer>
+		<integer>1242538200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

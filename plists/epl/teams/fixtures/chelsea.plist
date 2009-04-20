@@ -4,54 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>08 April 2009</string>
-		<key>details</key>
-		<string>Liverpool v Chelsea</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239191100</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>11 April 2009</string>
-		<key>details</key>
-		<string>Chelsea v Bolton</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1239433200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>14 April 2009</string>
-		<key>details</key>
-		<string>Chelsea v Liverpool</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239709500</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>date</key>
-		<string>18 April 2009</string>
-		<key>details</key>
-		<string>Arsenal v Chelsea</string>
-		<key>gmt_time</key>
-		<string>17:15</string>
-		<key>unix_time</key>
-		<integer>1240046100</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>22 April 2009</string>
@@ -76,6 +28,18 @@
 	</dict>
 	<dict>
 		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>28 April 2009</string>
+		<key>details</key>
+		<string>Barcelona v Chelsea</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1240919100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
 		<string>02 May 2009</string>
@@ -88,27 +52,39 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>UEFA Champions League</string>
 		<key>date</key>
-		<string>09 May 2009</string>
+		<string>06 May 2009</string>
 		<key>details</key>
-		<string>Arsenal v Chelsea</string>
+		<string>Chelsea v Barcelona</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>19:45</string>
 		<key>unix_time</key>
-		<integer>1241852400</integer>
+		<integer>1241610300</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>16 May 2009</string>
+		<string>10 May 2009</string>
+		<key>details</key>
+		<string>Arsenal v Chelsea</string>
+		<key>gmt_time</key>
+		<string>16:00</string>
+		<key>unix_time</key>
+		<integer>1241942400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>17 May 2009</string>
 		<key>details</key>
 		<string>Chelsea v Blackburn</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>16:00</string>
 		<key>unix_time</key>
-		<integer>1242457200</integer>
+		<integer>1242547200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -121,6 +97,18 @@
 		<string>16:00</string>
 		<key>unix_time</key>
 		<integer>1243152000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>The FA Cup sponsored by E.ON</string>
+		<key>date</key>
+		<string>30 May 2009</string>
+		<key>details</key>
+		<string>Chelsea v Everton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1243666800</integer>
 	</dict>
 </array>
 </plist>

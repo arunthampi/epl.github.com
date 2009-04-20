@@ -6,42 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>11 April 2009</string>
-		<key>details</key>
-		<string>Sunderland v Man Utd</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1239433200</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>UEFA Champions League</string>
-		<key>date</key>
-		<string>15 April 2009</string>
-		<key>details</key>
-		<string>FC Porto v Man Utd</string>
-		<key>gmt_time</key>
-		<string>19:45</string>
-		<key>unix_time</key>
-		<integer>1239795900</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>The FA Cup sponsored by E.ON</string>
-		<key>date</key>
-		<string>19 April 2009</string>
-		<key>details</key>
-		<string>Man Utd v Everton</string>
-		<key>gmt_time</key>
-		<string>16:00</string>
-		<key>unix_time</key>
-		<integer>1240128000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>22 April 2009</string>
 		<key>details</key>
 		<string>Man Utd v Portsmouth</string>
@@ -58,9 +22,21 @@
 		<key>details</key>
 		<string>Man Utd v Tottenham</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>17:30</string>
 		<key>unix_time</key>
-		<integer>1240642800</integer>
+		<integer>1240651800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>29 April 2009</string>
+		<key>details</key>
+		<string>Man Utd v Arsenal</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1241005500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -70,21 +46,33 @@
 		<key>details</key>
 		<string>Middlesbrough v Man Utd</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>12:45</string>
 		<key>unix_time</key>
-		<integer>1241247600</integer>
+		<integer>1241239500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>UEFA Champions League</string>
+		<key>date</key>
+		<string>05 May 2009</string>
+		<key>details</key>
+		<string>Arsenal v Man Utd</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1241523900</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2009</string>
+		<string>10 May 2009</string>
 		<key>details</key>
 		<string>Man Utd v Man City</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>13:30</string>
 		<key>unix_time</key>
-		<integer>1241852400</integer>
+		<integer>1241933400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -106,9 +94,9 @@
 		<key>details</key>
 		<string>Man Utd v Arsenal</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>12:45</string>
 		<key>unix_time</key>
-		<integer>1242457200</integer>
+		<integer>1242449100</integer>
 	</dict>
 	<dict>
 		<key>competition</key>

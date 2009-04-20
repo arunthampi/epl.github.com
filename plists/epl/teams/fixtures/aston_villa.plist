@@ -6,30 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>12 April 2009</string>
-		<key>details</key>
-		<string>Aston Villa v Everton</string>
-		<key>gmt_time</key>
-		<string>14:00</string>
-		<key>unix_time</key>
-		<integer>1239516000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>18 April 2009</string>
-		<key>details</key>
-		<string>Aston Villa v West Ham</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240038000</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>25 April 2009</string>
 		<key>details</key>
 		<string>Bolton v Aston Villa</string>
@@ -42,13 +18,13 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>02 May 2009</string>
+		<string>04 May 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Hull</string>
 		<key>gmt_time</key>
-		<string>15:00</string>
+		<string>20:00</string>
 		<key>unix_time</key>
-		<integer>1241247600</integer>
+		<integer>1241438400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
