@@ -6,18 +6,6 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>25 April 2009</string>
-		<key>details</key>
-		<string>Everton v Man City</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240642800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
 		<string>02 May 2009</string>
 		<key>details</key>
 		<string>Man City v Blackburn</string>

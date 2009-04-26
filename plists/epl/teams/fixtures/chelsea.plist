@@ -4,30 +4,6 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>22 April 2009</string>
-		<key>details</key>
-		<string>Chelsea v Everton</string>
-		<key>gmt_time</key>
-		<string>20:00</string>
-		<key>unix_time</key>
-		<integer>1240401600</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
-		<string>Barclays Premier League</string>
-		<key>date</key>
-		<string>25 April 2009</string>
-		<key>details</key>
-		<string>West Ham v Chelsea</string>
-		<key>gmt_time</key>
-		<string>15:00</string>
-		<key>unix_time</key>
-		<integer>1240642800</integer>
-	</dict>
-	<dict>
-		<key>competition</key>
 		<string>UEFA Champions League</string>
 		<key>date</key>
 		<string>28 April 2009</string>
