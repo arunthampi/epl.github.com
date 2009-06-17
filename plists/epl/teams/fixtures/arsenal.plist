@@ -4,87 +4,435 @@
 <array>
 	<dict>
 		<key>competition</key>
-		<string>Barclays Premier League</string>
+		<string>Friendly Match</string>
 		<key>date</key>
-		<string>26 April 2009</string>
+		<string>18 July 2009</string>
 		<key>details</key>
-		<string>Arsenal v Middlesbrough</string>
+		<string>Barnet v Arsenal</string>
 		<key>gmt_time</key>
-		<string>13:30</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1240723800</integer>
+		<integer>1247900400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
+		<string>Friendly Match</string>
 		<key>date</key>
-		<string>29 April 2009</string>
+		<string>20 July 2009</string>
 		<key>details</key>
-		<string>Man Utd v Arsenal</string>
+		<string>Lincoln City v Arsenal</string>
+		<key>gmt_time</key>
+		<string>19:30</string>
+		<key>unix_time</key>
+		<integer>1248089400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>01 August 2009</string>
+		<key>details</key>
+		<string>Arsenal v Atletico Madrid</string>
+		<key>gmt_time</key>
+		<string>16:15</string>
+		<key>unix_time</key>
+		<integer>1249114500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>02 August 2009</string>
+		<key>details</key>
+		<string>Arsenal v Rangers</string>
+		<key>gmt_time</key>
+		<string>16:15</string>
+		<key>unix_time</key>
+		<integer>1249200900</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>15 August 2009</string>
+		<key>details</key>
+		<string>Everton v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1250319600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>18 August 2009</string>
+		<key>details</key>
+		<string>Arsenal v Bolton</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
-		<integer>1241005500</integer>
+		<integer>1250595900</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>02 May 2009</string>
+		<string>22 August 2009</string>
+		<key>details</key>
+		<string>Arsenal v Portsmouth</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1250924400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>29 August 2009</string>
+		<key>details</key>
+		<string>Man Utd v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1251529200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>12 September 2009</string>
+		<key>details</key>
+		<string>Man City v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1252738800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>19 September 2009</string>
+		<key>details</key>
+		<string>Arsenal v Wigan</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1253343600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>26 September 2009</string>
+		<key>details</key>
+		<string>Fulham v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1253948400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>03 October 2009</string>
+		<key>details</key>
+		<string>Arsenal v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1254553200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>17 October 2009</string>
+		<key>details</key>
+		<string>Arsenal v Birmingham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1255762800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>07 November 2009</string>
+		<key>details</key>
+		<string>Wolverhampton v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1257577200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>21 November 2009</string>
+		<key>details</key>
+		<string>Sunderland v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1258786800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>05 December 2009</string>
+		<key>details</key>
+		<string>Arsenal v Stoke</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1259996400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>12 December 2009</string>
+		<key>details</key>
+		<string>Liverpool v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1260601200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>15 December 2009</string>
+		<key>details</key>
+		<string>Burnley v Arsenal</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1260877500</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>19 December 2009</string>
+		<key>details</key>
+		<string>Arsenal v Hull</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1261206000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>26 December 2009</string>
+		<key>details</key>
+		<string>Arsenal v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1261810800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>28 December 2009</string>
 		<key>details</key>
 		<string>Portsmouth v Arsenal</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1241247600</integer>
+		<integer>1261983600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>UEFA Champions League</string>
+		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 May 2009</string>
+		<string>09 January 2010</string>
 		<key>details</key>
-		<string>Arsenal v Man Utd</string>
+		<string>Arsenal v Everton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1263020400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>16 January 2010</string>
+		<key>details</key>
+		<string>Bolton v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1263625200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>27 January 2010</string>
+		<key>details</key>
+		<string>Aston Villa v Arsenal</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
-		<integer>1241523900</integer>
+		<integer>1264592700</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>10 May 2009</string>
+		<string>30 January 2010</string>
 		<key>details</key>
-		<string>Arsenal v Chelsea</string>
+		<string>Arsenal v Man Utd</string>
 		<key>gmt_time</key>
-		<string>16:00</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1241942400</integer>
+		<integer>1264834800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>16 May 2009</string>
+		<string>20 February 2010</string>
 		<key>details</key>
-		<string>Man Utd v Arsenal</string>
+		<string>Arsenal v Sunderland</string>
 		<key>gmt_time</key>
-		<string>12:45</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1242449100</integer>
+		<integer>1266649200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>24 May 2009</string>
+		<string>27 February 2010</string>
 		<key>details</key>
-		<string>Arsenal v Stoke</string>
+		<string>Stoke v Arsenal</string>
 		<key>gmt_time</key>
-		<string>16:00</string>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1243152000</integer>
+		<integer>1267254000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>06 March 2010</string>
+		<key>details</key>
+		<string>Arsenal v Burnley</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Hull v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>20 March 2010</string>
+		<key>details</key>
+		<string>Arsenal v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269068400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>27 March 2010</string>
+		<key>details</key>
+		<string>Birmingham v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269673200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>03 April 2010</string>
+		<key>details</key>
+		<string>Arsenal v Wolverhampton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270278000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>17 April 2010</string>
+		<key>details</key>
+		<string>Wigan v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1271487600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>24 April 2010</string>
+		<key>details</key>
+		<string>Arsenal v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1272092400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>01 May 2010</string>
+		<key>details</key>
+		<string>Blackburn v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1272697200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>09 May 2010</string>
+		<key>details</key>
+		<string>Arsenal v Fulham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1273388400</integer>
 	</dict>
 </array>
 </plist>

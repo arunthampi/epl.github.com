@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>21 July 2009</string>
+		<key>details</key>
+		<string>Walsall v Wolverhampton</string>
+		<key>gmt_time</key>
+		<string>19:45</string>
+		<key>unix_time</key>
+		<integer>1248176700</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>25 July 2009</string>
+		<key>details</key>
+		<string>Bristol City OFF Wolverhampton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1248505200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 15 August 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Tuesday, 18 August 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 22 August 2009</string>
+		<key>date</key>
+		<string>19:45</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245239100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 29 August 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 12 September 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 19 September 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 26 September 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 03 October 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 17 October 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 24 October 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 31 October 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 07 November 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 21 November 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 28 November 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 05 December 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 12 December 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Tuesday, 15 December 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 19 December 2009</string>
+		<key>date</key>
+		<string>19:45</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245239100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 26 December 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Monday, 28 December 2009</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 09 January 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 16 January 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Tuesday, 26 January 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 30 January 2010</string>
+		<key>date</key>
+		<string>19:45</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245239100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 06 February 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Tuesday, 09 February 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 20 February 2010</string>
+		<key>date</key>
+		<string>19:45</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245239100</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 27 February 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 06 March 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 13 March 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 20 March 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 27 March 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 03 April 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 10 April 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 17 April 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 24 April 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Saturday, 01 May 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Sunday, 09 May 2010</string>
+		<key>date</key>
+		<string>15:00</string>
+		<key>details</key>
+		<string>&lt;b&gt;Barclays Premier League&lt;/b&gt;</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1245308400</integer>
+	</dict>
+</array>
+</plist>
