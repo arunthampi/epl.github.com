@@ -69,7 +69,7 @@
 		BAgw
 		</data>
 		<key>unix_time</key>
-		<integer>1245239100</integer>
+		<integer>1245325500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -133,7 +133,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 03 October 2009</string>
+		<string>Saturday, 3 October 2009</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -193,7 +193,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 07 November 2009</string>
+		<string>Saturday, 7 November 2009</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -238,7 +238,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 05 December 2009</string>
+		<string>Saturday, 5 December 2009</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -294,7 +294,7 @@
 		BAgw
 		</data>
 		<key>unix_time</key>
-		<integer>1245239100</integer>
+		<integer>1245325500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -328,7 +328,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 09 January 2010</string>
+		<string>Saturday, 9 January 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -384,11 +384,11 @@
 		BAgw
 		</data>
 		<key>unix_time</key>
-		<integer>1245239100</integer>
+		<integer>1245325500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 06 February 2010</string>
+		<string>Saturday, 6 February 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -403,7 +403,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Tuesday, 09 February 2010</string>
+		<string>Tuesday, 9 February 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -429,7 +429,7 @@
 		BAgw
 		</data>
 		<key>unix_time</key>
-		<integer>1245239100</integer>
+		<integer>1245325500</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -448,7 +448,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 06 March 2010</string>
+		<string>Saturday, 6 March 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -508,7 +508,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 03 April 2010</string>
+		<string>Saturday, 3 April 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -568,7 +568,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Saturday, 01 May 2010</string>
+		<string>Saturday, 1 May 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>
@@ -583,7 +583,7 @@
 	</dict>
 	<dict>
 		<key>competition</key>
-		<string>Sunday, 09 May 2010</string>
+		<string>Sunday, 9 May 2010</string>
 		<key>date</key>
 		<string>15:00</string>
 		<key>details</key>

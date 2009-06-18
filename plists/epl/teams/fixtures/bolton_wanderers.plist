@@ -6,7 +6,49 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>04 August 2009</string>
+		<string>25 July 2009</string>
+		<key>details</key>
+		<string>Borussia M'gladbach v Bolton</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1248494400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>28 July 2009</string>
+		<key>details</key>
+		<string>FC Den Bosch v Bolton</string>
+		<key>gmt_time</key>
+		<string>19:00</string>
+		<key>unix_time</key>
+		<integer>1248778800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>31 July 2009</string>
+		<key>details</key>
+		<string>SBV Eindhoven v Bolton</string>
+		<key>gmt_time</key>
+		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+		<data>
+		BAgw
+		</data>
+		<key>unix_time</key>
+		<integer>1249012800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>4 August 2009</string>
 		<key>details</key>
 		<string>Hearts v Bolton</string>
 		<key>gmt_time</key>
@@ -18,16 +60,13 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>08 August 2009</string>
+		<string>8 August 2009</string>
 		<key>details</key>
 		<string>Bolton v Hibernian</string>
 		<key>gmt_time</key>
-		<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
-		<data>
-		BAgw
-		</data>
+		<string>15:00</string>
 		<key>unix_time</key>
-		<integer>1249704000</integer>
+		<integer>1249714800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -47,7 +86,7 @@
 		<key>date</key>
 		<string>18 August 2009</string>
 		<key>details</key>
-		<string>Arsenal v Bolton</string>
+		<string>Arsenal OFF Bolton</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
@@ -117,7 +156,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Bolton v Tottenham</string>
 		<key>gmt_time</key>
@@ -165,7 +204,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Bolton</string>
 		<key>gmt_time</key>
@@ -201,13 +240,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Wolverhampton v Bolton</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1259996400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>12 December 2009</string>
+		<key>details</key>
+		<string>Bolton v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1260601200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -261,7 +312,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Sunderland v Bolton</string>
 		<key>gmt_time</key>
@@ -309,7 +360,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Bolton v Fulham</string>
 		<key>gmt_time</key>
@@ -357,6 +408,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>6 March 2010</string>
+		<key>details</key>
+		<string>West Ham v Bolton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>13 March 2010</string>
 		<key>details</key>
 		<string>Bolton v Wigan</string>
@@ -393,7 +456,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 April 2010</string>
+		<string>3 April 2010</string>
 		<key>details</key>
 		<string>Bolton v Aston Villa</string>
 		<key>gmt_time</key>
@@ -417,6 +480,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>17 April 2010</string>
+		<key>details</key>
+		<string>Stoke v Bolton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1271487600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>24 April 2010</string>
 		<key>details</key>
 		<string>Bolton v Portsmouth</string>
@@ -429,7 +504,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Tottenham v Bolton</string>
 		<key>gmt_time</key>
@@ -441,7 +516,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Bolton v Birmingham</string>
 		<key>gmt_time</key>

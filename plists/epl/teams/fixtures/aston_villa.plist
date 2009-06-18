@@ -68,7 +68,7 @@
 		<key>date</key>
 		<string>18 August 2009</string>
 		<key>details</key>
-		<string>West Ham v Aston Villa</string>
+		<string>West Ham OFF Aston Villa</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
@@ -138,7 +138,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Man City</string>
 		<key>gmt_time</key>
@@ -174,7 +174,19 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>31 October 2009</string>
+		<key>details</key>
+		<string>Everton v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256972400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Aston Villa v Bolton</string>
 		<key>gmt_time</key>
@@ -205,6 +217,30 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1259391600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>5 December 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Hull</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1259996400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>12 December 2009</string>
+		<key>details</key>
+		<string>Man Utd v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1260601200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -246,6 +282,30 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>28 December 2009</string>
+		<key>details</key>
+		<string>Aston Villa v Liverpool</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1261983600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>9 January 2010</string>
+		<key>details</key>
+		<string>Wigan v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1263020400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>16 January 2010</string>
 		<key>details</key>
 		<string>Aston Villa v West Ham</string>
@@ -277,6 +337,18 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1264834800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>6 February 2010</string>
+		<key>details</key>
+		<string>Tottenham v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1265439600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -318,7 +390,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 March 2010</string>
+		<string>6 March 2010</string>
 		<key>details</key>
 		<string>Aston Villa v Sunderland</string>
 		<key>gmt_time</key>
@@ -354,13 +426,37 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 April 2010</string>
+		<string>27 March 2010</string>
+		<key>details</key>
+		<string>Chelsea v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269673200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>3 April 2010</string>
 		<key>details</key>
 		<string>Bolton v Aston Villa</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1270278000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>10 April 2010</string>
+		<key>details</key>
+		<string>Aston Villa v Everton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270882800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -390,7 +486,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Man City v Aston Villa</string>
 		<key>gmt_time</key>
@@ -402,7 +498,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Aston Villa v Blackburn</string>
 		<key>gmt_time</key>

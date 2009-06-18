@@ -6,9 +6,21 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>01 August 2009</string>
+		<string>11 July 2009</string>
 		<key>details</key>
-		<string>Burnley v Leeds</string>
+		<string>Bradford v Burnley</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1247295600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>1 August 2009</string>
+		<key>details</key>
+		<string>Burnley v Leeds United</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
@@ -102,7 +114,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Burnley v Birmingham</string>
 		<key>gmt_time</key>
@@ -150,7 +162,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Man City v Burnley</string>
 		<key>gmt_time</key>
@@ -186,7 +198,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Portsmouth v Burnley</string>
 		<key>gmt_time</key>
@@ -258,7 +270,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Burnley v Stoke</string>
 		<key>gmt_time</key>
@@ -306,7 +318,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Burnley v West Ham</string>
 		<key>gmt_time</key>
@@ -318,7 +330,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 February 2010</string>
+		<string>9 February 2010</string>
 		<key>details</key>
 		<string>Fulham v Burnley</string>
 		<key>gmt_time</key>
@@ -354,7 +366,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 March 2010</string>
+		<string>6 March 2010</string>
 		<key>details</key>
 		<string>Arsenal v Burnley</string>
 		<key>gmt_time</key>
@@ -402,7 +414,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 April 2010</string>
+		<string>3 April 2010</string>
 		<key>details</key>
 		<string>Burnley v Man City</string>
 		<key>gmt_time</key>
@@ -450,7 +462,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Birmingham v Burnley</string>
 		<key>gmt_time</key>
@@ -462,7 +474,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Burnley v Tottenham</string>
 		<key>gmt_time</key>

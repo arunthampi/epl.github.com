@@ -126,6 +126,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>19 September 2009</string>
+		<key>details</key>
+		<string>Chelsea v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1253343600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>26 September 2009</string>
 		<key>details</key>
 		<string>Tottenham v Burnley</string>
@@ -138,7 +150,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Bolton v Tottenham</string>
 		<key>gmt_time</key>
@@ -174,13 +186,37 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>31 October 2009</string>
+		<key>details</key>
+		<string>Arsenal v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256972400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Tottenham v Sunderland</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1257577200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>21 November 2009</string>
+		<key>details</key>
+		<string>Tottenham v Wigan</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1258786800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -198,7 +234,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Everton v Tottenham</string>
 		<key>gmt_time</key>
@@ -270,13 +306,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Liverpool v Tottenham</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1263020400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>16 January 2010</string>
+		<key>details</key>
+		<string>Tottenham v Hull</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1263625200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -306,13 +354,37 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 February 2010</string>
+		<string>6 February 2010</string>
+		<key>details</key>
+		<string>Tottenham v Aston Villa</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1265439600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>9 February 2010</string>
 		<key>details</key>
 		<string>Wolverhampton v Tottenham</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
 		<integer>1265715900</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>20 February 2010</string>
+		<key>details</key>
+		<string>Wigan v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1266649200</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -325,6 +397,78 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1267254000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>6 March 2010</string>
+		<key>details</key>
+		<string>Man City v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Tottenham v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>20 March 2010</string>
+		<key>details</key>
+		<string>Stoke v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269068400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>27 March 2010</string>
+		<key>details</key>
+		<string>Tottenham v Portsmouth</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269673200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>3 April 2010</string>
+		<key>details</key>
+		<string>Sunderland v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270278000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>10 April 2010</string>
+		<key>details</key>
+		<string>Tottenham v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270882800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -354,7 +498,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Tottenham v Bolton</string>
 		<key>gmt_time</key>
@@ -366,7 +510,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Burnley v Tottenham</string>
 		<key>gmt_time</key>

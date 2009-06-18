@@ -42,7 +42,7 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>01 August 2009</string>
+		<string>1 August 2009</string>
 		<key>details</key>
 		<string>Celtic v Sunderland</string>
 		<key>gmt_time</key>
@@ -93,6 +93,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>29 August 2009</string>
+		<key>details</key>
+		<string>Stoke v Sunderland</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1251529200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>12 September 2009</string>
 		<key>details</key>
 		<string>Sunderland v Hull</string>
@@ -129,7 +141,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Man Utd v Sunderland</string>
 		<key>gmt_time</key>
@@ -165,7 +177,19 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>31 October 2009</string>
+		<key>details</key>
+		<string>Sunderland v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256972400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Tottenham v Sunderland</string>
 		<key>gmt_time</key>
@@ -201,7 +225,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Fulham v Sunderland</string>
 		<key>gmt_time</key>
@@ -273,7 +297,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Sunderland v Bolton</string>
 		<key>gmt_time</key>
@@ -321,7 +345,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Sunderland v Wigan</string>
 		<key>gmt_time</key>
@@ -333,7 +357,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 February 2010</string>
+		<string>9 February 2010</string>
 		<key>details</key>
 		<string>Portsmouth v Sunderland</string>
 		<key>gmt_time</key>
@@ -369,13 +393,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 March 2010</string>
+		<string>6 March 2010</string>
 		<key>details</key>
 		<string>Aston Villa v Sunderland</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Sunderland v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -400,6 +436,18 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1269673200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>3 April 2010</string>
+		<key>details</key>
+		<string>Sunderland v Tottenham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270278000</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -441,7 +489,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Sunderland v Man Utd</string>
 		<key>gmt_time</key>
@@ -453,7 +501,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Wolverhampton v Sunderland</string>
 		<key>gmt_time</key>

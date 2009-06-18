@@ -32,7 +32,7 @@
 		<key>date</key>
 		<string>18 August 2009</string>
 		<key>details</key>
-		<string>West Ham v Aston Villa</string>
+		<string>West Ham OFF Aston Villa</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
@@ -90,7 +90,19 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>26 September 2009</string>
+		<key>details</key>
+		<string>Man City v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1253948400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>West Ham v Fulham</string>
 		<key>gmt_time</key>
@@ -114,13 +126,49 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>24 October 2009</string>
+		<key>details</key>
+		<string>West Ham v Arsenal</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256367600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>31 October 2009</string>
+		<key>details</key>
+		<string>Sunderland v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256972400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>West Ham v Everton</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1257577200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>21 November 2009</string>
+		<key>details</key>
+		<string>Hull v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1258786800</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -138,7 +186,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>West Ham v Man Utd</string>
 		<key>gmt_time</key>
@@ -210,7 +258,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>West Ham v Wolverhampton</string>
 		<key>gmt_time</key>
@@ -258,7 +306,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Burnley v West Ham</string>
 		<key>gmt_time</key>
@@ -270,13 +318,61 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 February 2010</string>
+		<string>9 February 2010</string>
 		<key>details</key>
 		<string>West Ham v Birmingham</string>
 		<key>gmt_time</key>
 		<string>19:45</string>
 		<key>unix_time</key>
 		<integer>1265715900</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>20 February 2010</string>
+		<key>details</key>
+		<string>West Ham v Hull</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1266649200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>27 February 2010</string>
+		<key>details</key>
+		<string>Man Utd v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1267254000</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>6 March 2010</string>
+		<key>details</key>
+		<string>West Ham v Bolton</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Chelsea v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -306,7 +402,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 April 2010</string>
+		<string>3 April 2010</string>
 		<key>details</key>
 		<string>Everton v West Ham</string>
 		<key>gmt_time</key>
@@ -330,6 +426,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>17 April 2010</string>
+		<key>details</key>
+		<string>Liverpool v West Ham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1271487600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>24 April 2010</string>
 		<key>details</key>
 		<string>West Ham v Wigan</string>
@@ -342,13 +450,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Fulham v West Ham</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1272697200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>9 May 2010</string>
+		<key>details</key>
+		<string>West Ham v Man City</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1273388400</integer>
 	</dict>
 </array>
 </plist>

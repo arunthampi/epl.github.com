@@ -6,6 +6,42 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
+		<string>8 July 2009</string>
+		<key>details</key>
+		<string>Gold Coast United FC v Fulham</string>
+		<key>gmt_time</key>
+		<string>20:00</string>
+		<key>unix_time</key>
+		<integer>1247054400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>11 July 2009</string>
+		<key>details</key>
+		<string>Melbourne Victory v Fulham</string>
+		<key>gmt_time</key>
+		<string>19:30</string>
+		<key>unix_time</key>
+		<integer>1247311800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
+		<string>15 July 2009</string>
+		<key>details</key>
+		<string>Perth Glory v Fulham</string>
+		<key>gmt_time</key>
+		<string>20:00</string>
+		<key>unix_time</key>
+		<integer>1247659200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Friendly Match</string>
+		<key>date</key>
 		<string>21 July 2009</string>
 		<key>details</key>
 		<string>Bournemouth v Fulham</string>
@@ -102,7 +138,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>West Ham v Fulham</string>
 		<key>gmt_time</key>
@@ -126,7 +162,31 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>24 October 2009</string>
+		<key>details</key>
+		<string>Man City v Fulham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256367600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>31 October 2009</string>
+		<key>details</key>
+		<string>Fulham v Liverpool</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256972400</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Wigan v Fulham</string>
 		<key>gmt_time</key>
@@ -162,7 +222,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Fulham v Sunderland</string>
 		<key>gmt_time</key>
@@ -234,7 +294,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Fulham v Portsmouth</string>
 		<key>gmt_time</key>
@@ -282,7 +342,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Bolton v Fulham</string>
 		<key>gmt_time</key>
@@ -294,7 +354,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 February 2010</string>
+		<string>9 February 2010</string>
 		<key>details</key>
 		<string>Fulham v Burnley</string>
 		<key>gmt_time</key>
@@ -330,13 +390,25 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 March 2010</string>
+		<string>6 March 2010</string>
 		<key>details</key>
 		<string>Fulham v Stoke</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Man Utd v Fulham</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -366,7 +438,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 April 2010</string>
+		<string>3 April 2010</string>
 		<key>details</key>
 		<string>Fulham v Wigan</string>
 		<key>gmt_time</key>
@@ -414,7 +486,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Fulham v West Ham</string>
 		<key>gmt_time</key>
@@ -426,7 +498,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Arsenal v Fulham</string>
 		<key>gmt_time</key>

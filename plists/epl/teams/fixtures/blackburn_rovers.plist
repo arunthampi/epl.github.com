@@ -20,7 +20,7 @@
 		<key>date</key>
 		<string>25 July 2009</string>
 		<key>details</key>
-		<string>Leeds v Blackburn</string>
+		<string>Leeds United v Blackburn</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
@@ -30,7 +30,7 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>01 August 2009</string>
+		<string>1 August 2009</string>
 		<key>details</key>
 		<string>Sheff Wed v Blackburn</string>
 		<key>gmt_time</key>
@@ -42,7 +42,7 @@
 		<key>competition</key>
 		<string>Friendly Match</string>
 		<key>date</key>
-		<string>05 August 2009</string>
+		<string>5 August 2009</string>
 		<key>details</key>
 		<string>Blackburn v Hibernian</string>
 		<key>gmt_time</key>
@@ -138,7 +138,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>03 October 2009</string>
+		<string>3 October 2009</string>
 		<key>details</key>
 		<string>Arsenal v Blackburn</string>
 		<key>gmt_time</key>
@@ -162,6 +162,18 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
+		<string>24 October 2009</string>
+		<key>details</key>
+		<string>Chelsea v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1256367600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
 		<string>31 October 2009</string>
 		<key>details</key>
 		<string>Man Utd v Blackburn</string>
@@ -174,7 +186,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>07 November 2009</string>
+		<string>7 November 2009</string>
 		<key>details</key>
 		<string>Blackburn v Portsmouth</string>
 		<key>gmt_time</key>
@@ -210,7 +222,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>05 December 2009</string>
+		<string>5 December 2009</string>
 		<key>details</key>
 		<string>Blackburn v Liverpool</string>
 		<key>gmt_time</key>
@@ -282,7 +294,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 January 2010</string>
+		<string>9 January 2010</string>
 		<key>details</key>
 		<string>Man City v Blackburn</string>
 		<key>gmt_time</key>
@@ -330,7 +342,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 February 2010</string>
+		<string>6 February 2010</string>
 		<key>details</key>
 		<string>Stoke v Blackburn</string>
 		<key>gmt_time</key>
@@ -378,13 +390,37 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>06 March 2010</string>
+		<string>6 March 2010</string>
 		<key>details</key>
 		<string>Blackburn v Birmingham</string>
 		<key>gmt_time</key>
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1267858800</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>13 March 2010</string>
+		<key>details</key>
+		<string>Tottenham v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1268463600</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>20 March 2010</string>
+		<key>details</key>
+		<string>Blackburn v Chelsea</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1269068400</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -397,6 +433,18 @@
 		<string>15:00</string>
 		<key>unix_time</key>
 		<integer>1269673200</integer>
+	</dict>
+	<dict>
+		<key>competition</key>
+		<string>Barclays Premier League</string>
+		<key>date</key>
+		<string>3 April 2010</string>
+		<key>details</key>
+		<string>Portsmouth v Blackburn</string>
+		<key>gmt_time</key>
+		<string>15:00</string>
+		<key>unix_time</key>
+		<integer>1270278000</integer>
 	</dict>
 	<dict>
 		<key>competition</key>
@@ -438,7 +486,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>01 May 2010</string>
+		<string>1 May 2010</string>
 		<key>details</key>
 		<string>Blackburn v Arsenal</string>
 		<key>gmt_time</key>
@@ -450,7 +498,7 @@
 		<key>competition</key>
 		<string>Barclays Premier League</string>
 		<key>date</key>
-		<string>09 May 2010</string>
+		<string>9 May 2010</string>
 		<key>details</key>
 		<string>Aston Villa v Blackburn</string>
 		<key>gmt_time</key>
